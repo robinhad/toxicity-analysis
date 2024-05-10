@@ -1,13 +1,14 @@
-# respethics
+# toxicity-analysis
 
-# Experiments plan:
+### Project implemented as the course project and part of the curriculum for the DS-GA 1017, Responsible Data Science, 
+### Spring 2024 Course
+### NYU / UCU
 
-1. Count the hits on each element in the stem-tokenization pipeline.
+### Authors and contibutors:
+### • Dmytro Kushnir (kushnir_d@ucu.edu.ua / dk5143@nyu.edu)
+### • Yurii Paniv (paniv@ucu.edu.ua / yp2827@nyu.edu)
 
-| Experiment | Description | Score | Resolution |
-|------------|-------------|-------|------------|
-| 1_1 | Count hits for each cleanign stage, for each step in stemming pipeline | - | There are redundant steps in stemming pipeline. Cleaning counts are non-informative  |
-| 1_2 | Remove cleaning stage | 0.90399| Substantial change. Worth checking impact of each component |
-| Experiment 3 | Description of experiment 3 |  | |
 
-# TODO: add other experiments and their results into log
+**From 10th of May (inclisive data), 2024 project is officially submitted for evaluation and extensive work is stopped.**
+
+**_Experiments finalization is possible of curiosity purposes and should not be counted as the part of the project progress_**
